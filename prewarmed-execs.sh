@@ -1,6 +1,6 @@
 #!/bin/bash
 
-outFile=${PWD}/"cold-out-hdd.txt"
+outFile=${PWD}/"prewarm-out-hdd.txt"
 fnames="hello-nj hello-ruby hello-php hello-py hello-java hello-dotnet hello-go hello-swift"
 
 cd ${HOME}/openwhisk/ansible

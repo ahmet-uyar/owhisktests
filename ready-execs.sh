@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # output filename
-outFile="ready-out-ssd.txt"
+outFile="ready-out-hdd.txt"
 fnames="hello-nj hello-ruby hello-php hello-py hello-java hello-dotnet hello-go hello-swift"
 
 for fname in $fnames
 do
   # send a request to ready the container
-  echo "Starting container for the function: $fname"
+  echo "Starting cthe ontainer for the function: $fname"
   wsk -i action invoke --result $fname --param name Jack
   sleep 10
 
@@ -19,7 +19,7 @@ do
     delay=$((end-start))
     echo "$fname $delay" >> $outFile
     echo "Executed $fname Sleeping 10 seconds before the next query..."
-    sleep 10
+    sleep 5
   done
 
   echo "---------------" >> $outFile
