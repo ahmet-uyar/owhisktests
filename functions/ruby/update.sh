@@ -8,4 +8,4 @@ else
   fname=hello-ruby-${suffix}
 fi
 
-wsk -i action create $fname hello.rb --kind ruby:default --timeout 120000
+wsk -i action update $fname  --timeout 120000

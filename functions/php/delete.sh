@@ -8,4 +8,4 @@ else
   fname=hello-php-${suffix}
 fi
 
-wsk -i action create $fname hello.php --kind php:default --timeout 120000
+wsk -i action delete $fname

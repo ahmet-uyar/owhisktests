@@ -7,4 +7,4 @@ else
   fname=hello-java-${suffix}
 fi
 
-wsk -i action create $fname hello.jar --main Hello --kind java:default --timeout 120000
+wsk -i action update $fname --timeout 120000

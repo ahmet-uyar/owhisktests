@@ -8,4 +8,4 @@ else
   fname=hello-swift-${suffix}
 fi
 
-wsk -i action create $fname hello.swift --kind swift:default --timeout 120000
+wsk -i action delete $fname

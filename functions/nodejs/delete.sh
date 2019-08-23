@@ -8,4 +8,4 @@ else
   fname=hello-nj-${suffix}
 fi
 
-wsk -i action create $fname hello.js --kind nodejs:default --timeout 120000
+wsk -i action delete $fname

@@ -1,3 +1,11 @@
+# ignore data directories and temp directory
+data
+data-many
+data-standalone
+temp
+
+#########################################################################
+# .gitignore java
 # Compiled class file
 *.class
 

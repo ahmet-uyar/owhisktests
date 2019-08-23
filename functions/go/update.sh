@@ -8,4 +8,4 @@ else
   fname=hello-go-${suffix}
 fi
 
-wsk -i action create $fname hello.go --kind go:default --timeout 120000
+wsk -i action update $fname --timeout 120000

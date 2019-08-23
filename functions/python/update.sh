@@ -8,4 +8,4 @@ else
   fname=hello-py-${suffix}
 fi
 
-wsk -i action create $fname hello.py --kind python:default --timeout 120000
+wsk -i action update $fname  --timeout 120000

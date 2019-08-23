@@ -7,7 +7,7 @@ do
   for dir in $dirs
   do
     cd $dir
-    ./create.sh $i
+    ./update.sh $i
     cd ..
   done
 done
