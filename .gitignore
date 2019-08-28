@@ -1,7 +1,4 @@
 # ignore data directories and temp directory
-data
-data-many
-data-standalone
 temp
 data.txt
 

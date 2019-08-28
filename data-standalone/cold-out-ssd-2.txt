@@ -1,0 +1,91 @@
+# OpenWhisk server restarted between consecutive runs of all functions as groups
+hello-nj 2486
+hello-ruby 3064
+hello-php 1936
+hello-py 2116
+hello-java 2004
+hello-dotnet 2840
+hello-go 2648
+hello-swift 3278
+---------------
+hello-nj 2385
+hello-ruby 2661
+hello-php 1944
+hello-py 2206
+hello-java 2090
+hello-dotnet 2887
+hello-go 2638
+hello-swift 3175
+---------------
+hello-nj 2354
+hello-ruby 2819
+hello-php 1992
+hello-py 2136
+hello-java 2211
+hello-dotnet 2935
+hello-go 2365
+hello-swift 3292
+---------------
+hello-nj 2324
+hello-ruby 2696
+hello-php 1958
+hello-py 2099
+hello-java 2075
+hello-dotnet 2900
+hello-go 2349
+hello-swift 3252
+---------------
+hello-nj 2401
+hello-ruby 2778
+hello-php 1972
+hello-py 2166
+hello-java 2188
+hello-dotnet 2866
+hello-go 2338
+hello-swift 3203
+---------------
+hello-nj 2410
+hello-ruby 2793
+hello-php 1942
+hello-py 2104
+hello-java 2045
+hello-dotnet 2978
+hello-go 2469
+hello-swift 3181
+---------------
+hello-nj 2352
+hello-ruby 2744
+hello-php 2000
+hello-py 2098
+hello-java 2017
+hello-dotnet 2960
+hello-go 2327
+hello-swift 3223
+---------------
+hello-nj 2489
+hello-ruby 2701
+hello-php 2196
+hello-py 2156
+hello-java 2089
+hello-dotnet 2848
+hello-go 2493
+hello-swift 3201
+---------------
+hello-nj 2447
+hello-ruby 3089
+hello-php 2009
+hello-py 2249
+hello-java 2139
+hello-dotnet 2894
+hello-go 2335
+hello-swift 3172
+---------------
+hello-nj 2362
+hello-ruby 2885
+hello-php 1868
+hello-py 2105
+hello-java 2060
+hello-dotnet 3209
+hello-go 2401
+hello-swift 3323
+---------------

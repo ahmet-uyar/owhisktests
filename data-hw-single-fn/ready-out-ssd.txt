@@ -1,0 +1,48 @@
+hello-nj 177
+hello-nj 158
+hello-nj 148
+hello-nj 166
+hello-nj 155
+---------------
+hello-ruby 535
+hello-ruby 511
+hello-ruby 510
+hello-ruby 507
+hello-ruby 500
+---------------
+hello-php 157
+hello-php 139
+hello-php 142
+hello-php 134
+hello-php 139
+---------------
+hello-py 140
+hello-py 139
+hello-py 145
+hello-py 146
+hello-py 141
+---------------
+hello-java 149
+hello-java 148
+hello-java 139
+hello-java 135
+hello-java 141
+---------------
+hello-dotnet 146
+hello-dotnet 129
+hello-dotnet 132
+hello-dotnet 131
+hello-dotnet 143
+---------------
+hello-go 131
+hello-go 132
+hello-go 142
+hello-go 133
+hello-go 173
+---------------
+hello-swift 133
+hello-swift 130
+hello-swift 127
+hello-swift 140
+hello-swift 134
+---------------

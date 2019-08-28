@@ -1,0 +1,45 @@
+hello-nj 2910
+hello-ruby 3104
+hello-php 2266
+hello-py 2441
+hello-java 2322
+hello-dotnet 3243
+hello-go 3310
+hello-swift 4420
+---------------
+hello-nj 2863
+hello-ruby 3095
+hello-php 2297
+hello-py 2534
+hello-java 2353
+hello-dotnet 3299
+hello-go 3448
+hello-swift 4535
+---------------
+hello-nj 2863
+hello-ruby 2965
+hello-php 2199
+hello-py 2566
+hello-java 2478
+hello-dotnet 3581
+hello-go 3337
+hello-swift 4494
+---------------
+hello-nj 2876
+hello-ruby 2964
+hello-php 2209
+hello-py 2422
+hello-java 2329
+hello-dotnet 3349
+hello-go 3274
+hello-swift 4287
+---------------
+hello-nj 2807
+hello-ruby 2998
+hello-php 2265
+hello-py 2456
+hello-java 2456
+hello-dotnet 3223
+hello-go 3280
+hello-swift 4351
+---------------

@@ -1,0 +1,54 @@
+hello-nj 2243
+hello-ruby 2435
+hello-php 1365
+hello-py 2056
+hello-java 1557
+hello-dotnet 2760
+hello-go 1788
+hello-swift 2901
+---------------
+hello-nj 2334
+hello-ruby 2604
+hello-php 1386
+hello-py 1652
+hello-java 1772
+hello-dotnet 2783
+hello-go 1769
+hello-swift 2896
+---------------
+hello-nj 2247
+hello-ruby 2481
+hello-php 1431
+hello-py 1704
+hello-java 1545
+hello-dotnet 2764
+hello-go 1768
+hello-swift 2838
+---------------
+hello-nj 2288
+hello-ruby 2465
+hello-php 1433
+hello-py 1651
+hello-java 1562
+hello-dotnet 2273
+hello-go 1759
+hello-swift 2857
+---------------
+hello-nj 2240
+hello-ruby 2460
+hello-php 1351
+hello-py 1691
+hello-java 1788
+hello-dotnet 2758
+hello-go 1746
+hello-swift 2811
+---------------
+hello-nj 2214
+hello-ruby 2444
+hello-php 1404
+hello-py 1629
+hello-java 1540
+hello-dotnet 2793
+hello-go 1775
+hello-swift 2887
+---------------
