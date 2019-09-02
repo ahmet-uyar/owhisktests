@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # output filename
-fname="hello-java-with-data"
-outFile=${PWD}/"fat-test.txt"
+fname="hello-nj-with-data"
+outFile=${PWD}/"fat-nj-test.txt"
 type="ssd"
 
 cd ${HOME}/openwhisk/ansible

@@ -1,6 +1,7 @@
 # ignore data directories and temp directory
 temp
 data.txt
+numbers-*.dat
 
 #########################################################################
 # .gitignore java
