@@ -1,1 +1,1 @@
-wsk -i action invoke hello-nj-with-data --result --param name Jack
+wsk -i action invoke fat-nj --result --param name Jack

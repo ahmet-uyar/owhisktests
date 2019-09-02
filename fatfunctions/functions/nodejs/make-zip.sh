@@ -1,3 +1,3 @@
 #!/bin/bash
 
-zip hello-nj.zip hello.js package.json ../random/numbers-1.dat ../random/numbers-2.dat
+zip fat-nj.zip hello.js package.json ../randomdata/numbers-1.dat ../randomdata/numbers-2.dat

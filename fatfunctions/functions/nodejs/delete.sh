@@ -1,11 +1,11 @@
 #!/bin/bash
 
 suffix=$1
-# chek whether suffix is provided from command line
-if [ "$suffix" = "" ]; then
-  fname=hello-nj-with-data
-else
-  fname=hello-nj-with-data-${suffix}
+fname=fat-nj
+
+# chek whether suffix is provided from command line, if it is not null
+if [ -n "$suffix" ]; then
+  fname=${fname}-${suffix}
 fi
 
 wsk -i action delete $fname

@@ -1,1 +1,1 @@
-wsk -i action invoke --result hello-java-with-data --param name Jack
+wsk -i action invoke --result fat-java --param name Jack
