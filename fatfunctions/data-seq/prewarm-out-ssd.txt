@@ -1,0 +1,45 @@
+fat-nj 2523
+fat-ruby 2260
+fat-php 1704
+fat-py 1299
+fat-java 2392
+fat-dotnet 2954
+fat-go 1982
+fat-swift 1608
+---------------
+fat-nj 2474
+fat-ruby 2151
+fat-php 1739
+fat-py 1381
+fat-java 2428
+fat-dotnet 3068
+fat-go 2092
+fat-swift 1546
+---------------
+fat-nj 2515
+fat-ruby 2252
+fat-php 1765
+fat-py 1460
+fat-java 2491
+fat-dotnet 2573
+fat-go 2000
+fat-swift 1572
+---------------
+fat-nj 2354
+fat-ruby 2383
+fat-php 1611
+fat-py 1349
+fat-java 2447
+fat-dotnet 2974
+fat-go 1974
+fat-swift 1556
+---------------
+fat-nj 2502
+fat-ruby 2208
+fat-php 1634
+fat-py 1404
+fat-java 2498
+fat-dotnet 3043
+fat-go 2097
+fat-swift 1542
+---------------
