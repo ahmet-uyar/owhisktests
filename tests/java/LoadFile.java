@@ -35,18 +35,22 @@ public class LoadFile {
     ByteBuffer byteBuffer = ByteBuffer.allocate( READ_BUFFER_SIZE);
 
     long iterations = divRoundUp(fileSize, READ_BUFFER_SIZE);
+    long totalReadBytes = 0;
     for (long i = 0; i < iterations; i++) {
       long readBytes = fileChannel.read(byteBuffer);
+      totalReadBytes += readBytes;
+
       byteBuffer.clear();
-      if (readBytes != READ_BUFFER_SIZE) {
-        System.out.println(i + " readBytes: " + readBytes + ", READ_BUFFER_SIZE: " + READ_BUFFER_SIZE);
-      }
+    }
+
+    if (totalReadBytes != fileSize) {
+      System.out.println("Total read byte [" + totalReadBytes+ "] does not equal to fileSize [" + fileSize + "] ?????");
     }
 
     // Close the file.
     fileInputStream.close();
 
-    System.out.println("Number of bytes in the file: " + fileSize);
+//    System.out.println("Number of bytes in the file: " + fileSize);
   }
 
   // ref: https://stackoverflow.com/questions/7446710/how-to-round-up-integer-division-and-have-int-result-in-java
