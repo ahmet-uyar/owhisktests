@@ -1,2 +1,2 @@
-# owisktests
+# OpenWisk Performance Tests
 OpenWhisk Tests
